@@ -3,6 +3,13 @@ vocicon
 
 Vocabulary trainer and lexicon
 
+Roadmap
+=======
+
+(I) Create a build environment that builds a simple hello world app, integrating SQL and SQLite on Windows, Linux, and Mac OS X.
+
+(II) Start hacking.
+
 TODO
 ====
 
@@ -10,7 +17,7 @@ TODO
 - Create mockups for the UI
 - Create database scheme and settle for a metadata layout
 - Write proper TODO list
-- Everythign else
+- Everything else
 
 Outline
 =======
@@ -33,7 +40,7 @@ Data
 
 - grammar and morphology (word types (noun, verb, adverb, pronoun, ..), conjugations, declinations, ..)
 
-Memorization
+Memoization
 - learn sets
 - flash cards with solutions
 - flash cards with input (written words and/or ipa)
@@ -43,6 +50,7 @@ Memorization
   - higher-scored vocabs get shown less often
   - vocabs which have not been trained for a long time have higher priority of showing up, regardless of score
   - vocabs may decrease in score if they are answered wrong too often
+  - incentive system to keep learning everyday, i.e. higher score if done regularly
 
 Input
 - On-screen input of characters, esp. special chars
