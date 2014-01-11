@@ -1,7 +1,7 @@
 vocicon
 =======
 
-Vocabulary trainer and lexicon
+Vocabulary trainer, dictionary and lexicon
 
 Roadmap
 =======
